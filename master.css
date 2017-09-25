@@ -1,0 +1,31 @@
+html{
+	background:url("co.jpg");
+	background-size: cover;
+}
+.pa{
+  width: 400px;
+  height: 400px;
+  background:rgba(0,0,0,0,4);
+  background-color:black;
+  opacity:0.7;
+  padding: 40px;
+  color:white;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 120px;
+}
+.pain{
+
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+	border-color:red;
+}
+h1{
+	letter-spacing: 10px;
+	font-family:Times New Roman;
+
+}
+.a{
+  font-style: italic;
+}
